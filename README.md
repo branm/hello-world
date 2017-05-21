@@ -1,2 +1,4 @@
 # hello-world
-GitHub Tutorial
+Heyya! 
+
+I'm Brandon Manzaneda and I'm currently studying at Virginia Tech.
